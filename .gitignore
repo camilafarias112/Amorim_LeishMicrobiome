@@ -1,0 +1,45 @@
+# This is the .gitignore file for the Leish-Microbiome paper.
+# Files ignored were never included in the manuscript or they are sentisitve information about the patients, therefore are muted.
+
+# 1) Project folders:
+
+
+# 2) "Ghost" files ignored:
+# History files
+.Rhistory
+.Rapp.history
+
+#R profile
+.Rprofile
+
+# Session Data files
+.RData
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+.Rproj
+/.Rproj
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3 # Camila added this from Hadley's example. I'll just leve them...
+.httr-oauth
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
+rsconnect/
+.Rproj.user
+inst/doc
+
