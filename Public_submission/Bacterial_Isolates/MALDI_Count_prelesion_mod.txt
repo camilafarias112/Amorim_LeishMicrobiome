@@ -1,0 +1,18 @@
+Bacterial species	Number of lesions
+Arcanobacterium haemolyticum	3
+Citrobacter freundii	1
+Corynebacterium diptheriae	4
+Escherichia coli	1
+Enterobacter cloacae	3
+Klebsiella variicola	1
+Morganella morganii	2
+Serratia marcescens	1
+Staphylococcus argenteus	1
+Staphylococcus aureus	22
+Staphylococcus epidermidis	5
+Staphylococcus lugdunesis	2
+Staphylococcus pasteuri	1
+Staphylococcus warneri	1
+Streptococcus dysgalactiae	8
+Streptococcus oralis	1
+Streptococcus pyogenes	5

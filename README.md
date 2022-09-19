@@ -1,6 +1,6 @@
 # Overview of this repo
 
-> This repo houses all of the code and analysis conducted for the manuscript "TBD". A link to the raw .fastq file data hosted on GEO is provided [here](LINKHERE). The abstract for the manuscript is copied below:
+> This repo houses all of the code and analysis conducted for the manuscript "TBD". A link to the raw .fastq file data hosted on SRA is provided [here](LINKHERE). The abstract for the manuscript is copied below:
 
 ## Abstract
 HERE
