@@ -1,0 +1,617 @@
+[2020-07-22 10:39:36,258] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/amorimc/.local/lib/python3.6/site-packages/multiqc_config.yaml
+[2020-07-22 10:39:36,258] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/amorimc/.multiqc_config.yaml
+[2020-07-22 10:39:36,258] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2020-07-22 10:39:36,258] multiqc                                            [DEBUG  ]  Command used: /home/amorimc/.local/bin/multiqc -d .
+[2020-07-22 10:39:37,721] multiqc                                            [WARNING]  MultiQC Version v1.9 now available!
+[2020-07-22 10:39:37,722] multiqc                                            [INFO   ]  This is MultiQC v1.8
+[2020-07-22 10:39:37,722] multiqc                                            [DEBUG  ]  Command     : /home/amorimc/.local/bin/multiqc -d .
+[2020-07-22 10:39:37,722] multiqc                                            [DEBUG  ]  Working dir : /home/amorimc/3rdDataset/kallisto_outputs/human
+[2020-07-22 10:39:37,722] multiqc                                            [INFO   ]  Template    : default
+[2020-07-22 10:39:37,722] multiqc                                            [DEBUG  ]  Running Python 3.6.9 (default, Apr 18 2020, 01:56:04)  [GCC 8.4.0]
+[2020-07-22 10:39:37,722] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2020-07-22 10:39:37,722] multiqc                                            [INFO   ]  Searching   : /home/amorimc/3rdDataset/kallisto_outputs/human
+[2020-07-22 10:39:37,723] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dedup, damageprofiler, biobambam2, mtnucratio, picard, prokka, samblaster, samtools, sexdeterrmine, bamtools, jellyfish, vcftools, longranger, stacks, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, minionqc, mosdepth, clusterflow, bcl2fastq, interop, flash, seqyclean
+[2020-07-22 10:39:37,723] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpi9rq7ou5
+[2020-07-22 10:39:37,834] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29159.log
+[2020-07-22 10:39:37,844] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29498.log
+[2020-07-22 10:39:37,850] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29272.log
+[2020-07-22 10:39:37,857] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29257.log
+[2020-07-22 10:39:37,863] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29539.log
+[2020-07-22 10:39:37,869] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS6.log
+[2020-07-22 10:39:37,875] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29180.log
+[2020-07-22 10:39:37,880] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29148.log
+[2020-07-22 10:39:37,886] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS1.log
+[2020-07-22 10:39:37,892] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29276.log
+[2020-07-22 10:39:37,898] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS3.log
+[2020-07-22 10:39:37,904] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29663.log
+[2020-07-22 10:39:37,910] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29298.log
+[2020-07-22 10:39:37,915] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29491.log
+[2020-07-22 10:39:37,921] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29291.log
+[2020-07-22 10:39:37,927] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS4.log
+[2020-07-22 10:39:37,933] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29253.log
+[2020-07-22 10:39:37,938] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29687.log
+[2020-07-22 10:39:37,944] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29727.log
+[2020-07-22 10:39:37,950] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29274.log
+[2020-07-22 10:39:37,959] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29150.log
+[2020-07-22 10:39:37,965] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29264.log
+[2020-07-22 10:39:37,971] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29223.log
+[2020-07-22 10:39:37,977] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29107.log
+[2020-07-22 10:39:37,982] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29118.log
+[2020-07-22 10:39:37,988] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29271.log
+[2020-07-22 10:39:37,994] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29231.log
+[2020-07-22 10:39:37,999] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29297.log
+[2020-07-22 10:39:38,005] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS5.log
+[2020-07-22 10:39:38,011] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29161.log
+[2020-07-22 10:39:38,017] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29168.log
+[2020-07-22 10:39:38,022] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29529.log
+[2020-07-22 10:39:38,028] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29289.log
+[2020-07-22 10:39:38,034] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29258.log
+[2020-07-22 10:39:38,039] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29170.log
+[2020-07-22 10:39:38,045] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29213.log
+[2020-07-22 10:39:38,051] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29075.log
+[2020-07-22 10:39:38,057] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29218.log
+[2020-07-22 10:39:38,062] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29558.log
+[2020-07-22 10:39:38,068] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29680.log
+[2020-07-22 10:39:38,074] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29770.log
+[2020-07-22 10:39:38,080] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29201.log
+[2020-07-22 10:39:38,085] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29085.log
+[2020-07-22 10:39:38,091] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29151.log
+[2020-07-22 10:39:38,097] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29077.log
+[2020-07-22 10:39:38,102] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29256.log
+[2020-07-22 10:39:38,108] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29219.log
+[2020-07-22 10:39:38,114] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29270.log
+[2020-07-22 10:39:38,120] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: HS2.log
+[2020-07-22 10:39:38,125] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29776.log
+[2020-07-22 10:39:38,131] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29254.log
+[2020-07-22 10:39:38,137] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29234.log
+[2020-07-22 10:39:38,142] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29246.log
+[2020-07-22 10:39:38,148] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29303.log
+[2020-07-22 10:39:38,154] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29137.log
+[2020-07-22 10:39:38,161] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29513.log
+[2020-07-22 10:39:38,169] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: CL29519.log
+[2020-07-22 10:39:38,234] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:38,235] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,777] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:41,778] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:45,418] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,046] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:49,047] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,667] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:52,668] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,187] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:56,188] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,821] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:39:59,822] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,446] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:03,447] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,078] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:07,079] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,737] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:10,738] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,400] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,400] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,400] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,400] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,400] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,401] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,401] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:14,401] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,062] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,062] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,062] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,062] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,062] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,063] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,063] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:18,063] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,739] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:21,740] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,391] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:25,392] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,070] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:29,071] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,756] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:32,757] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,430] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:36,431] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:40,101] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,773] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:43,774] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,465] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:47,466] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,147] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,147] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,147] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,148] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,148] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,148] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,148] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:51,148] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,803] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:54,804] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,460] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:40:58,461] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,135] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:02,136] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,811] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:05,812] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,479] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,479] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,479] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,479] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,480] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,480] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,480] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:09,480] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,156] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:13,157] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,843] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,843] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,843] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,844] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,844] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,844] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,844] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:16,844] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,527] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:20,528] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,216] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,217] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:24,217] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,895] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:27,896] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,587] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:31,588] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,283] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:35,284] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,968] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:38,969] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,665] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:42,666] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,375] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,375] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,375] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,376] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,376] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,376] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,376] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:46,376] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,049] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,049] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:50,050] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,735] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:53,736] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,438] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:41:57,439] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,144] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,144] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,144] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,144] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,144] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,145] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,145] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:01,145] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,839] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:04,840] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,509] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:08,510] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,229] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:12,230] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,928] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,929] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:15,929] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,633] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:19,634] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,326] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,326] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,326] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,326] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,327] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,327] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,327] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:23,327] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,019] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:27,020] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,711] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:30,712] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,403] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:34,404] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,053] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:38,054] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,737] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:41,738] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,404] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,404] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,404] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,405] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,405] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:45,405] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,072] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:49,073] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,745] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:52,746] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,428] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:42:56,429] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,099] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,099] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,099] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,099] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,100] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,100] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,100] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:00,100] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,774] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by snpeff because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:03,775] multiqc                                            [DEBUG  ]  File ignored by stacks/sumstats because it exceeded search pattern filesize limit: abundance.tsv
+[2020-07-22 10:43:07,668] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.1.1
+[2020-07-22 10:43:07,669] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.1.1
+[2020-07-22 10:43:07,669] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2020-07-22 10:43:07,672] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2020-07-22 10:43:07,675] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2020-07-22 10:43:07,678] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2020-07-22 10:43:07,680] multiqc                                            [DEBUG  ]  No samples found: phantompeakqualtools
+[2020-07-22 10:43:07,684] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2020-07-22 10:43:07,687] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2020-07-22 10:43:07,690] multiqc                                            [DEBUG  ]  No samples found: quast
+[2020-07-22 10:43:07,692] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2020-07-22 10:43:07,695] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2020-07-22 10:43:07,698] multiqc                                            [DEBUG  ]  No samples found: rsem
+[2020-07-22 10:43:07,703] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2020-07-22 10:43:07,706] multiqc                                            [DEBUG  ]  No samples found: busco
+[2020-07-22 10:43:07,708] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2020-07-22 10:43:07,711] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2020-07-22 10:43:07,714] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2020-07-22 10:43:07,719] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2020-07-22 10:43:07,722] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2020-07-22 10:43:07,725] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2020-07-22 10:43:07,727] multiqc                                            [DEBUG  ]  No samples found: mirtrace
+[2020-07-22 10:43:07,730] multiqc                                            [DEBUG  ]  No samples found: happy
+[2020-07-22 10:43:07,734] multiqc                                            [DEBUG  ]  No samples found: homer
+[2020-07-22 10:43:07,737] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2020-07-22 10:43:07,739] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2020-07-22 10:43:07,742] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2020-07-22 10:43:07,746] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2020-07-22 10:43:07,749] multiqc                                            [DEBUG  ]  No samples found: htseq
+[2020-07-22 10:43:07,752] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2020-07-22 10:43:07,754] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2020-07-22 10:43:07,757] multiqc                                            [DEBUG  ]  No samples found: fgbio
+[2020-07-22 10:43:07,760] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2020-07-22 10:43:07,763] multiqc                                            [DEBUG  ]  No samples found: damageprofiler
+[2020-07-22 10:43:07,771] multiqc                                            [DEBUG  ]  No samples found: biobambam2
+[2020-07-22 10:43:07,773] multiqc                                            [DEBUG  ]  No samples found: mtnucratio
+[2020-07-22 10:43:07,776] multiqc                                            [DEBUG  ]  No samples found: picard
+[2020-07-22 10:43:07,778] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2020-07-22 10:43:07,782] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2020-07-22 10:43:07,786] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2020-07-22 10:43:07,789] multiqc                                            [DEBUG  ]  No samples found: sexdeterrmine
+[2020-07-22 10:43:07,792] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2020-07-22 10:43:07,794] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2020-07-22 10:43:07,798] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2020-07-22 10:43:07,801] multiqc                                            [DEBUG  ]  No samples found: longranger
+[2020-07-22 10:43:07,803] multiqc                                            [DEBUG  ]  No samples found: stacks
+[2020-07-22 10:43:07,809] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2020-07-22 10:43:07,812] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2020-07-22 10:43:07,815] multiqc                                            [DEBUG  ]  No samples found: biscuit
+[2020-07-22 10:43:07,818] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2020-07-22 10:43:07,821] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2020-07-22 10:43:07,823] multiqc                                            [DEBUG  ]  No samples found: hicpro
+[2020-07-22 10:43:07,826] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2020-07-22 10:43:07,839] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 57 reports
+[2020-07-22 10:43:07,844] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2020-07-22 10:43:07,847] multiqc                                            [DEBUG  ]  No samples found: star
+[2020-07-22 10:43:07,849] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2020-07-22 10:43:07,852] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2020-07-22 10:43:07,855] multiqc                                            [DEBUG  ]  No samples found: bowtie2
+[2020-07-22 10:43:07,857] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2020-07-22 10:43:07,860] multiqc                                            [DEBUG  ]  No samples found: kat
+[2020-07-22 10:43:07,862] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2020-07-22 10:43:07,865] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2020-07-22 10:43:07,868] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2020-07-22 10:43:07,871] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2020-07-22 10:43:07,873] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2020-07-22 10:43:07,876] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2020-07-22 10:43:07,879] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2020-07-22 10:43:07,881] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2020-07-22 10:43:07,884] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2020-07-22 10:43:07,887] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2020-07-22 10:43:07,890] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2020-07-22 10:43:07,892] multiqc                                            [DEBUG  ]  No samples found: fastp
+[2020-07-22 10:43:07,896] multiqc                                            [DEBUG  ]  No samples found: fastqc
+[2020-07-22 10:43:07,898] multiqc                                            [DEBUG  ]  No samples found: minionqc
+[2020-07-22 10:43:07,901] multiqc                                            [DEBUG  ]  No samples found: mosdepth
+[2020-07-22 10:43:07,904] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2020-07-22 10:43:07,906] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2020-07-22 10:43:07,909] multiqc                                            [DEBUG  ]  No samples found: interop
+[2020-07-22 10:43:07,912] multiqc                                            [DEBUG  ]  No samples found: flash
+[2020-07-22 10:43:07,915] multiqc                                            [DEBUG  ]  No samples found: seqyclean
+[2020-07-22 10:43:07,937] multiqc                                            [INFO   ]  Compressing plot data
+[2020-07-22 10:43:07,942] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2020-07-22 10:43:07,942] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2020-07-22 10:43:07,942] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9rq7ou5/multiqc_data/multiqc_kallisto.txt' to '/home/amorimc/3rdDataset/kallisto_outputs/human/multiqc_data'
+[2020-07-22 10:43:07,943] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9rq7ou5/multiqc_data/multiqc_general_stats.txt' to '/home/amorimc/3rdDataset/kallisto_outputs/human/multiqc_data'
+[2020-07-22 10:43:07,943] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9rq7ou5/multiqc_data/multiqc_qualimap_bamqc_genome_results.txt' to '/home/amorimc/3rdDataset/kallisto_outputs/human/multiqc_data'
+[2020-07-22 10:43:07,943] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9rq7ou5/multiqc_data/multiqc_sources.txt' to '/home/amorimc/3rdDataset/kallisto_outputs/human/multiqc_data'
+[2020-07-22 10:43:07,943] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9rq7ou5/multiqc_data/multiqc_data.json' to '/home/amorimc/3rdDataset/kallisto_outputs/human/multiqc_data'
+[2020-07-22 10:43:08,023] multiqc                                            [INFO   ]  MultiQC complete

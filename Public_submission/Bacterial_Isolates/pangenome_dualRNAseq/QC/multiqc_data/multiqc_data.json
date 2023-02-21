@@ -1,0 +1,1465 @@
+{
+    "report_data_sources": {
+        "Bowtie 2 / HiSAT2": {
+            "all_sections": {
+                "Saureus_pangenome_outputs | . | CL29118_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29118_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29687_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29687_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29498_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29498_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29298_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29298_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29513_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29513_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29077_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29077_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29159_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29159_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29253_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29253_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29303_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29303_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS3_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS3_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29256_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29256_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29107_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29107_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29150_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29150_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29223_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29223_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29258_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29258_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29274_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29274_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29219_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29219_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29085_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29085_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29257_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29257_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29137_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29137_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29291_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29291_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29246_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29246_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29539_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29539_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS1_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS1_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS2_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS2_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29776_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29776_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29201_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29201_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29254_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29254_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29264_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29264_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29170_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29170_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29148_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29148_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29168_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29168_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29519_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29519_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29231_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29231_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29663_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29663_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS4_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS4_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29075_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29075_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29491_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29491_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29276_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29276_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29218_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29218_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29680_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29680_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29770_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29770_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29270_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29270_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29289_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29289_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29272_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29272_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29213_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29213_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29727_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29727_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29234_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29234_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS6_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS6_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29297_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29297_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29558_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29558_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29271_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29271_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29529_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29529_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29151_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29151_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29180_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29180_Saureus.txt",
+                "Saureus_pangenome_outputs | . | CL29161_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/CL29161_Saureus.txt",
+                "Saureus_pangenome_outputs | . | HS5_Saureus": "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs/HS5_Saureus.txt"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "Saureus_pangenome_outputs | . | CL29118_Saureus": {
+                "total_reads": 4316860,
+                "unpaired_total": 4316860,
+                "unpaired_aligned_none": 4316425,
+                "unpaired_aligned_one": 404,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29687_Saureus": {
+                "total_reads": 3958953,
+                "unpaired_total": 3958953,
+                "unpaired_aligned_none": 3958952,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29498_Saureus": {
+                "total_reads": 3876310,
+                "unpaired_total": 3876310,
+                "unpaired_aligned_none": 3876292,
+                "unpaired_aligned_one": 13,
+                "unpaired_aligned_multi": 5,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29298_Saureus": {
+                "total_reads": 3070548,
+                "unpaired_total": 3070548,
+                "unpaired_aligned_none": 3070545,
+                "unpaired_aligned_one": 3,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29513_Saureus": {
+                "total_reads": 3567062,
+                "unpaired_total": 3567062,
+                "unpaired_aligned_none": 3567042,
+                "unpaired_aligned_one": 17,
+                "unpaired_aligned_multi": 3,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29077_Saureus": {
+                "total_reads": 2894847,
+                "unpaired_total": 2894847,
+                "unpaired_aligned_none": 2893817,
+                "unpaired_aligned_one": 862,
+                "unpaired_aligned_multi": 168,
+                "overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29159_Saureus": {
+                "total_reads": 3509997,
+                "unpaired_total": 3509997,
+                "unpaired_aligned_none": 3509273,
+                "unpaired_aligned_one": 656,
+                "unpaired_aligned_multi": 68,
+                "overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29253_Saureus": {
+                "total_reads": 3481941,
+                "unpaired_total": 3481941,
+                "unpaired_aligned_none": 3481923,
+                "unpaired_aligned_one": 18,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29303_Saureus": {
+                "total_reads": 2442732,
+                "unpaired_total": 2442732,
+                "unpaired_aligned_none": 2442651,
+                "unpaired_aligned_one": 69,
+                "unpaired_aligned_multi": 12,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS3_Saureus": {
+                "total_reads": 3701707,
+                "unpaired_total": 3701707,
+                "unpaired_aligned_none": 3701694,
+                "unpaired_aligned_one": 9,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29256_Saureus": {
+                "total_reads": 2985681,
+                "unpaired_total": 2985681,
+                "unpaired_aligned_none": 2985638,
+                "unpaired_aligned_one": 39,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29107_Saureus": {
+                "total_reads": 4609580,
+                "unpaired_total": 4609580,
+                "unpaired_aligned_none": 4609563,
+                "unpaired_aligned_one": 15,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29150_Saureus": {
+                "total_reads": 4129737,
+                "unpaired_total": 4129737,
+                "unpaired_aligned_none": 4124888,
+                "unpaired_aligned_one": 4261,
+                "unpaired_aligned_multi": 588,
+                "overall_alignment_rate": 0.12
+            },
+            "Saureus_pangenome_outputs | . | CL29223_Saureus": {
+                "total_reads": 3901849,
+                "unpaired_total": 3901849,
+                "unpaired_aligned_none": 3901844,
+                "unpaired_aligned_one": 4,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29258_Saureus": {
+                "total_reads": 3007290,
+                "unpaired_total": 3007290,
+                "unpaired_aligned_none": 3007239,
+                "unpaired_aligned_one": 42,
+                "unpaired_aligned_multi": 9,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29274_Saureus": {
+                "total_reads": 1987019,
+                "unpaired_total": 1987019,
+                "unpaired_aligned_none": 1987018,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29219_Saureus": {
+                "total_reads": 3125780,
+                "unpaired_total": 3125780,
+                "unpaired_aligned_none": 3125472,
+                "unpaired_aligned_one": 275,
+                "unpaired_aligned_multi": 33,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29085_Saureus": {
+                "total_reads": 3641177,
+                "unpaired_total": 3641177,
+                "unpaired_aligned_none": 3641175,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29257_Saureus": {
+                "total_reads": 2604875,
+                "unpaired_total": 2604875,
+                "unpaired_aligned_none": 2604872,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29137_Saureus": {
+                "total_reads": 3103749,
+                "unpaired_total": 3103749,
+                "unpaired_aligned_none": 3098720,
+                "unpaired_aligned_one": 4493,
+                "unpaired_aligned_multi": 536,
+                "overall_alignment_rate": 0.16
+            },
+            "Saureus_pangenome_outputs | . | CL29291_Saureus": {
+                "total_reads": 3218959,
+                "unpaired_total": 3218959,
+                "unpaired_aligned_none": 3218309,
+                "unpaired_aligned_one": 579,
+                "unpaired_aligned_multi": 71,
+                "overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29246_Saureus": {
+                "total_reads": 2282147,
+                "unpaired_total": 2282147,
+                "unpaired_aligned_none": 2282141,
+                "unpaired_aligned_one": 6,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29539_Saureus": {
+                "total_reads": 4028363,
+                "unpaired_total": 4028363,
+                "unpaired_aligned_none": 4028363,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS1_Saureus": {
+                "total_reads": 2609992,
+                "unpaired_total": 2609992,
+                "unpaired_aligned_none": 2609968,
+                "unpaired_aligned_one": 24,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS2_Saureus": {
+                "total_reads": 3240464,
+                "unpaired_total": 3240464,
+                "unpaired_aligned_none": 3240461,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29776_Saureus": {
+                "total_reads": 4232128,
+                "unpaired_total": 4232128,
+                "unpaired_aligned_none": 4232128,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29201_Saureus": {
+                "total_reads": 4571150,
+                "unpaired_total": 4571150,
+                "unpaired_aligned_none": 4571008,
+                "unpaired_aligned_one": 131,
+                "unpaired_aligned_multi": 11,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29254_Saureus": {
+                "total_reads": 3522669,
+                "unpaired_total": 3522669,
+                "unpaired_aligned_none": 3522667,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29264_Saureus": {
+                "total_reads": 3587114,
+                "unpaired_total": 3587114,
+                "unpaired_aligned_none": 3585568,
+                "unpaired_aligned_one": 1400,
+                "unpaired_aligned_multi": 146,
+                "overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29170_Saureus": {
+                "total_reads": 2693404,
+                "unpaired_total": 2693404,
+                "unpaired_aligned_none": 2693143,
+                "unpaired_aligned_one": 230,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29148_Saureus": {
+                "total_reads": 3194071,
+                "unpaired_total": 3194071,
+                "unpaired_aligned_none": 3193963,
+                "unpaired_aligned_one": 94,
+                "unpaired_aligned_multi": 14,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29168_Saureus": {
+                "total_reads": 2809824,
+                "unpaired_total": 2809824,
+                "unpaired_aligned_none": 2809787,
+                "unpaired_aligned_one": 35,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29519_Saureus": {
+                "total_reads": 4211456,
+                "unpaired_total": 4211456,
+                "unpaired_aligned_none": 4211454,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29231_Saureus": {
+                "total_reads": 3816767,
+                "unpaired_total": 3816767,
+                "unpaired_aligned_none": 3816747,
+                "unpaired_aligned_one": 19,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29663_Saureus": {
+                "total_reads": 2648755,
+                "unpaired_total": 2648755,
+                "unpaired_aligned_none": 2648722,
+                "unpaired_aligned_one": 24,
+                "unpaired_aligned_multi": 9,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS4_Saureus": {
+                "total_reads": 4185090,
+                "unpaired_total": 4185090,
+                "unpaired_aligned_none": 4185058,
+                "unpaired_aligned_one": 26,
+                "unpaired_aligned_multi": 6,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29075_Saureus": {
+                "total_reads": 3531094,
+                "unpaired_total": 3531094,
+                "unpaired_aligned_none": 3531072,
+                "unpaired_aligned_one": 21,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29491_Saureus": {
+                "total_reads": 3883562,
+                "unpaired_total": 3883562,
+                "unpaired_aligned_none": 3883554,
+                "unpaired_aligned_one": 7,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29276_Saureus": {
+                "total_reads": 3246309,
+                "unpaired_total": 3246309,
+                "unpaired_aligned_none": 3244606,
+                "unpaired_aligned_one": 1546,
+                "unpaired_aligned_multi": 157,
+                "overall_alignment_rate": 0.05
+            },
+            "Saureus_pangenome_outputs | . | CL29218_Saureus": {
+                "total_reads": 2843359,
+                "unpaired_total": 2843359,
+                "unpaired_aligned_none": 2843281,
+                "unpaired_aligned_one": 74,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29680_Saureus": {
+                "total_reads": 4374530,
+                "unpaired_total": 4374530,
+                "unpaired_aligned_none": 4374529,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29770_Saureus": {
+                "total_reads": 2202546,
+                "unpaired_total": 2202546,
+                "unpaired_aligned_none": 2202529,
+                "unpaired_aligned_one": 15,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29270_Saureus": {
+                "total_reads": 4136440,
+                "unpaired_total": 4136440,
+                "unpaired_aligned_none": 4136340,
+                "unpaired_aligned_one": 87,
+                "unpaired_aligned_multi": 13,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29289_Saureus": {
+                "total_reads": 4745584,
+                "unpaired_total": 4745584,
+                "unpaired_aligned_none": 4742776,
+                "unpaired_aligned_one": 2548,
+                "unpaired_aligned_multi": 260,
+                "overall_alignment_rate": 0.06
+            },
+            "Saureus_pangenome_outputs | . | CL29272_Saureus": {
+                "total_reads": 3848577,
+                "unpaired_total": 3848577,
+                "unpaired_aligned_none": 3848241,
+                "unpaired_aligned_one": 305,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29213_Saureus": {
+                "total_reads": 2932183,
+                "unpaired_total": 2932183,
+                "unpaired_aligned_none": 2932146,
+                "unpaired_aligned_one": 33,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29727_Saureus": {
+                "total_reads": 2876291,
+                "unpaired_total": 2876291,
+                "unpaired_aligned_none": 2876284,
+                "unpaired_aligned_one": 7,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29234_Saureus": {
+                "total_reads": 2620008,
+                "unpaired_total": 2620008,
+                "unpaired_aligned_none": 2619995,
+                "unpaired_aligned_one": 12,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS6_Saureus": {
+                "total_reads": 1978940,
+                "unpaired_total": 1978940,
+                "unpaired_aligned_none": 1978938,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29297_Saureus": {
+                "total_reads": 4478752,
+                "unpaired_total": 4478752,
+                "unpaired_aligned_none": 4477433,
+                "unpaired_aligned_one": 1209,
+                "unpaired_aligned_multi": 110,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29558_Saureus": {
+                "total_reads": 2348673,
+                "unpaired_total": 2348673,
+                "unpaired_aligned_none": 2348625,
+                "unpaired_aligned_one": 40,
+                "unpaired_aligned_multi": 8,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29271_Saureus": {
+                "total_reads": 3377430,
+                "unpaired_total": 3377430,
+                "unpaired_aligned_none": 3376492,
+                "unpaired_aligned_one": 835,
+                "unpaired_aligned_multi": 103,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29529_Saureus": {
+                "total_reads": 3388875,
+                "unpaired_total": 3388875,
+                "unpaired_aligned_none": 3388875,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29151_Saureus": {
+                "total_reads": 3065242,
+                "unpaired_total": 3065242,
+                "unpaired_aligned_none": 3064343,
+                "unpaired_aligned_one": 805,
+                "unpaired_aligned_multi": 94,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29180_Saureus": {
+                "total_reads": 3723534,
+                "unpaired_total": 3723534,
+                "unpaired_aligned_none": 3723529,
+                "unpaired_aligned_one": 5,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29161_Saureus": {
+                "total_reads": 3280442,
+                "unpaired_total": 3280442,
+                "unpaired_aligned_none": 3280259,
+                "unpaired_aligned_one": 169,
+                "unpaired_aligned_multi": 14,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | HS5_Saureus": {
+                "total_reads": 2455539,
+                "unpaired_total": 2455539,
+                "unpaired_aligned_none": 2455523,
+                "unpaired_aligned_one": 14,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "overall_alignment_rate": {
+                "title": "% Aligned",
+                "description": "overall alignment rate",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "YlGn",
+                "namespace": "Bowtie 2 / HiSAT2",
+                "rid": "mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/home/amorimc/.local/bin/multiqc -d Saureus_pangenome_outputs/.",
+    "report_plot_data": {
+        "bowtie2_se_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Saureus_pangenome_outputs | . | CL29075_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29077_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29085_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29107_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29118_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29137_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29148_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29150_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29151_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29159_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29161_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29168_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29170_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29180_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29201_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29213_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29218_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29219_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29223_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29231_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29234_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29246_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29253_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29254_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29256_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29257_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29258_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29264_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29270_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29271_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29272_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29274_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29276_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29289_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29291_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29297_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29298_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29303_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29491_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29498_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29513_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29519_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29529_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29539_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29558_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29663_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29680_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29687_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29727_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29770_Saureus",
+                    "Saureus_pangenome_outputs | . | CL29776_Saureus",
+                    "Saureus_pangenome_outputs | . | HS1_Saureus",
+                    "Saureus_pangenome_outputs | . | HS2_Saureus",
+                    "Saureus_pangenome_outputs | . | HS3_Saureus",
+                    "Saureus_pangenome_outputs | . | HS4_Saureus",
+                    "Saureus_pangenome_outputs | . | HS5_Saureus",
+                    "Saureus_pangenome_outputs | . | HS6_Saureus"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "SE mapped uniquely",
+                        "data": [
+                            21.0,
+                            862.0,
+                            2.0,
+                            15.0,
+                            404.0,
+                            4493.0,
+                            94.0,
+                            4261.0,
+                            805.0,
+                            656.0,
+                            169.0,
+                            35.0,
+                            230.0,
+                            5.0,
+                            131.0,
+                            33.0,
+                            74.0,
+                            275.0,
+                            4.0,
+                            19.0,
+                            12.0,
+                            6.0,
+                            18.0,
+                            2.0,
+                            39.0,
+                            2.0,
+                            42.0,
+                            1400.0,
+                            87.0,
+                            835.0,
+                            305.0,
+                            1.0,
+                            1546.0,
+                            2548.0,
+                            579.0,
+                            1209.0,
+                            3.0,
+                            69.0,
+                            7.0,
+                            13.0,
+                            17.0,
+                            2.0,
+                            0.0,
+                            0.0,
+                            40.0,
+                            24.0,
+                            1.0,
+                            1.0,
+                            7.0,
+                            15.0,
+                            0.0,
+                            24.0,
+                            2.0,
+                            9.0,
+                            26.0,
+                            14.0,
+                            2.0
+                        ],
+                        "color": "#20568f"
+                    },
+                    {
+                        "name": "SE multimapped",
+                        "data": [
+                            1.0,
+                            168.0,
+                            0.0,
+                            2.0,
+                            31.0,
+                            536.0,
+                            14.0,
+                            588.0,
+                            94.0,
+                            68.0,
+                            14.0,
+                            2.0,
+                            31.0,
+                            0.0,
+                            11.0,
+                            4.0,
+                            4.0,
+                            33.0,
+                            1.0,
+                            1.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            4.0,
+                            1.0,
+                            9.0,
+                            146.0,
+                            13.0,
+                            103.0,
+                            31.0,
+                            0.0,
+                            157.0,
+                            260.0,
+                            71.0,
+                            110.0,
+                            0.0,
+                            12.0,
+                            1.0,
+                            5.0,
+                            3.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            8.0,
+                            9.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            2.0,
+                            0.0,
+                            0.0,
+                            1.0,
+                            4.0,
+                            6.0,
+                            2.0,
+                            0.0
+                        ],
+                        "color": "#f7a35c"
+                    },
+                    {
+                        "name": "SE not aligned",
+                        "data": [
+                            3531072.0,
+                            2893817.0,
+                            3641175.0,
+                            4609563.0,
+                            4316425.0,
+                            3098720.0,
+                            3193963.0,
+                            4124888.0,
+                            3064343.0,
+                            3509273.0,
+                            3280259.0,
+                            2809787.0,
+                            2693143.0,
+                            3723529.0,
+                            4571008.0,
+                            2932146.0,
+                            2843281.0,
+                            3125472.0,
+                            3901844.0,
+                            3816747.0,
+                            2619995.0,
+                            2282141.0,
+                            3481923.0,
+                            3522667.0,
+                            2985638.0,
+                            2604872.0,
+                            3007239.0,
+                            3585568.0,
+                            4136340.0,
+                            3376492.0,
+                            3848241.0,
+                            1987018.0,
+                            3244606.0,
+                            4742776.0,
+                            3218309.0,
+                            4477433.0,
+                            3070545.0,
+                            2442651.0,
+                            3883554.0,
+                            3876292.0,
+                            3567042.0,
+                            4211454.0,
+                            3388875.0,
+                            4028363.0,
+                            2348625.0,
+                            2648722.0,
+                            4374529.0,
+                            3958952.0,
+                            2876284.0,
+                            2202529.0,
+                            4232128.0,
+                            2609968.0,
+                            3240461.0,
+                            3701694.0,
+                            4185058.0,
+                            2455523.0,
+                            1978938.0
+                        ],
+                        "color": "#981919"
+                    }
+                ]
+            ],
+            "config": {
+                "ylab": "# Reads",
+                "cpswitch_counts_label": "Number of Reads",
+                "id": "bowtie2_se_plot",
+                "title": "Bowtie 2: SE Alignment Scores"
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_bowtie2": {
+            "Saureus_pangenome_outputs | . | CL29118_Saureus": {
+                "total_reads": 4316860,
+                "unpaired_total": 4316860,
+                "unpaired_aligned_none": 4316425,
+                "unpaired_aligned_one": 404,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29687_Saureus": {
+                "total_reads": 3958953,
+                "unpaired_total": 3958953,
+                "unpaired_aligned_none": 3958952,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29498_Saureus": {
+                "total_reads": 3876310,
+                "unpaired_total": 3876310,
+                "unpaired_aligned_none": 3876292,
+                "unpaired_aligned_one": 13,
+                "unpaired_aligned_multi": 5,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29298_Saureus": {
+                "total_reads": 3070548,
+                "unpaired_total": 3070548,
+                "unpaired_aligned_none": 3070545,
+                "unpaired_aligned_one": 3,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29513_Saureus": {
+                "total_reads": 3567062,
+                "unpaired_total": 3567062,
+                "unpaired_aligned_none": 3567042,
+                "unpaired_aligned_one": 17,
+                "unpaired_aligned_multi": 3,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29077_Saureus": {
+                "total_reads": 2894847,
+                "unpaired_total": 2894847,
+                "unpaired_aligned_none": 2893817,
+                "unpaired_aligned_one": 862,
+                "unpaired_aligned_multi": 168,
+                "overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29159_Saureus": {
+                "total_reads": 3509997,
+                "unpaired_total": 3509997,
+                "unpaired_aligned_none": 3509273,
+                "unpaired_aligned_one": 656,
+                "unpaired_aligned_multi": 68,
+                "overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29253_Saureus": {
+                "total_reads": 3481941,
+                "unpaired_total": 3481941,
+                "unpaired_aligned_none": 3481923,
+                "unpaired_aligned_one": 18,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29303_Saureus": {
+                "total_reads": 2442732,
+                "unpaired_total": 2442732,
+                "unpaired_aligned_none": 2442651,
+                "unpaired_aligned_one": 69,
+                "unpaired_aligned_multi": 12,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS3_Saureus": {
+                "total_reads": 3701707,
+                "unpaired_total": 3701707,
+                "unpaired_aligned_none": 3701694,
+                "unpaired_aligned_one": 9,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29256_Saureus": {
+                "total_reads": 2985681,
+                "unpaired_total": 2985681,
+                "unpaired_aligned_none": 2985638,
+                "unpaired_aligned_one": 39,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29107_Saureus": {
+                "total_reads": 4609580,
+                "unpaired_total": 4609580,
+                "unpaired_aligned_none": 4609563,
+                "unpaired_aligned_one": 15,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29150_Saureus": {
+                "total_reads": 4129737,
+                "unpaired_total": 4129737,
+                "unpaired_aligned_none": 4124888,
+                "unpaired_aligned_one": 4261,
+                "unpaired_aligned_multi": 588,
+                "overall_alignment_rate": 0.12
+            },
+            "Saureus_pangenome_outputs | . | CL29223_Saureus": {
+                "total_reads": 3901849,
+                "unpaired_total": 3901849,
+                "unpaired_aligned_none": 3901844,
+                "unpaired_aligned_one": 4,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29258_Saureus": {
+                "total_reads": 3007290,
+                "unpaired_total": 3007290,
+                "unpaired_aligned_none": 3007239,
+                "unpaired_aligned_one": 42,
+                "unpaired_aligned_multi": 9,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29274_Saureus": {
+                "total_reads": 1987019,
+                "unpaired_total": 1987019,
+                "unpaired_aligned_none": 1987018,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29219_Saureus": {
+                "total_reads": 3125780,
+                "unpaired_total": 3125780,
+                "unpaired_aligned_none": 3125472,
+                "unpaired_aligned_one": 275,
+                "unpaired_aligned_multi": 33,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29085_Saureus": {
+                "total_reads": 3641177,
+                "unpaired_total": 3641177,
+                "unpaired_aligned_none": 3641175,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29257_Saureus": {
+                "total_reads": 2604875,
+                "unpaired_total": 2604875,
+                "unpaired_aligned_none": 2604872,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29137_Saureus": {
+                "total_reads": 3103749,
+                "unpaired_total": 3103749,
+                "unpaired_aligned_none": 3098720,
+                "unpaired_aligned_one": 4493,
+                "unpaired_aligned_multi": 536,
+                "overall_alignment_rate": 0.16
+            },
+            "Saureus_pangenome_outputs | . | CL29291_Saureus": {
+                "total_reads": 3218959,
+                "unpaired_total": 3218959,
+                "unpaired_aligned_none": 3218309,
+                "unpaired_aligned_one": 579,
+                "unpaired_aligned_multi": 71,
+                "overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29246_Saureus": {
+                "total_reads": 2282147,
+                "unpaired_total": 2282147,
+                "unpaired_aligned_none": 2282141,
+                "unpaired_aligned_one": 6,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29539_Saureus": {
+                "total_reads": 4028363,
+                "unpaired_total": 4028363,
+                "unpaired_aligned_none": 4028363,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS1_Saureus": {
+                "total_reads": 2609992,
+                "unpaired_total": 2609992,
+                "unpaired_aligned_none": 2609968,
+                "unpaired_aligned_one": 24,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS2_Saureus": {
+                "total_reads": 3240464,
+                "unpaired_total": 3240464,
+                "unpaired_aligned_none": 3240461,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29776_Saureus": {
+                "total_reads": 4232128,
+                "unpaired_total": 4232128,
+                "unpaired_aligned_none": 4232128,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29201_Saureus": {
+                "total_reads": 4571150,
+                "unpaired_total": 4571150,
+                "unpaired_aligned_none": 4571008,
+                "unpaired_aligned_one": 131,
+                "unpaired_aligned_multi": 11,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29254_Saureus": {
+                "total_reads": 3522669,
+                "unpaired_total": 3522669,
+                "unpaired_aligned_none": 3522667,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29264_Saureus": {
+                "total_reads": 3587114,
+                "unpaired_total": 3587114,
+                "unpaired_aligned_none": 3585568,
+                "unpaired_aligned_one": 1400,
+                "unpaired_aligned_multi": 146,
+                "overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29170_Saureus": {
+                "total_reads": 2693404,
+                "unpaired_total": 2693404,
+                "unpaired_aligned_none": 2693143,
+                "unpaired_aligned_one": 230,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29148_Saureus": {
+                "total_reads": 3194071,
+                "unpaired_total": 3194071,
+                "unpaired_aligned_none": 3193963,
+                "unpaired_aligned_one": 94,
+                "unpaired_aligned_multi": 14,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29168_Saureus": {
+                "total_reads": 2809824,
+                "unpaired_total": 2809824,
+                "unpaired_aligned_none": 2809787,
+                "unpaired_aligned_one": 35,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29519_Saureus": {
+                "total_reads": 4211456,
+                "unpaired_total": 4211456,
+                "unpaired_aligned_none": 4211454,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29231_Saureus": {
+                "total_reads": 3816767,
+                "unpaired_total": 3816767,
+                "unpaired_aligned_none": 3816747,
+                "unpaired_aligned_one": 19,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29663_Saureus": {
+                "total_reads": 2648755,
+                "unpaired_total": 2648755,
+                "unpaired_aligned_none": 2648722,
+                "unpaired_aligned_one": 24,
+                "unpaired_aligned_multi": 9,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS4_Saureus": {
+                "total_reads": 4185090,
+                "unpaired_total": 4185090,
+                "unpaired_aligned_none": 4185058,
+                "unpaired_aligned_one": 26,
+                "unpaired_aligned_multi": 6,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29075_Saureus": {
+                "total_reads": 3531094,
+                "unpaired_total": 3531094,
+                "unpaired_aligned_none": 3531072,
+                "unpaired_aligned_one": 21,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29491_Saureus": {
+                "total_reads": 3883562,
+                "unpaired_total": 3883562,
+                "unpaired_aligned_none": 3883554,
+                "unpaired_aligned_one": 7,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29276_Saureus": {
+                "total_reads": 3246309,
+                "unpaired_total": 3246309,
+                "unpaired_aligned_none": 3244606,
+                "unpaired_aligned_one": 1546,
+                "unpaired_aligned_multi": 157,
+                "overall_alignment_rate": 0.05
+            },
+            "Saureus_pangenome_outputs | . | CL29218_Saureus": {
+                "total_reads": 2843359,
+                "unpaired_total": 2843359,
+                "unpaired_aligned_none": 2843281,
+                "unpaired_aligned_one": 74,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29680_Saureus": {
+                "total_reads": 4374530,
+                "unpaired_total": 4374530,
+                "unpaired_aligned_none": 4374529,
+                "unpaired_aligned_one": 1,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29770_Saureus": {
+                "total_reads": 2202546,
+                "unpaired_total": 2202546,
+                "unpaired_aligned_none": 2202529,
+                "unpaired_aligned_one": 15,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29270_Saureus": {
+                "total_reads": 4136440,
+                "unpaired_total": 4136440,
+                "unpaired_aligned_none": 4136340,
+                "unpaired_aligned_one": 87,
+                "unpaired_aligned_multi": 13,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29289_Saureus": {
+                "total_reads": 4745584,
+                "unpaired_total": 4745584,
+                "unpaired_aligned_none": 4742776,
+                "unpaired_aligned_one": 2548,
+                "unpaired_aligned_multi": 260,
+                "overall_alignment_rate": 0.06
+            },
+            "Saureus_pangenome_outputs | . | CL29272_Saureus": {
+                "total_reads": 3848577,
+                "unpaired_total": 3848577,
+                "unpaired_aligned_none": 3848241,
+                "unpaired_aligned_one": 305,
+                "unpaired_aligned_multi": 31,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29213_Saureus": {
+                "total_reads": 2932183,
+                "unpaired_total": 2932183,
+                "unpaired_aligned_none": 2932146,
+                "unpaired_aligned_one": 33,
+                "unpaired_aligned_multi": 4,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29727_Saureus": {
+                "total_reads": 2876291,
+                "unpaired_total": 2876291,
+                "unpaired_aligned_none": 2876284,
+                "unpaired_aligned_one": 7,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29234_Saureus": {
+                "total_reads": 2620008,
+                "unpaired_total": 2620008,
+                "unpaired_aligned_none": 2619995,
+                "unpaired_aligned_one": 12,
+                "unpaired_aligned_multi": 1,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS6_Saureus": {
+                "total_reads": 1978940,
+                "unpaired_total": 1978940,
+                "unpaired_aligned_none": 1978938,
+                "unpaired_aligned_one": 2,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29297_Saureus": {
+                "total_reads": 4478752,
+                "unpaired_total": 4478752,
+                "unpaired_aligned_none": 4477433,
+                "unpaired_aligned_one": 1209,
+                "unpaired_aligned_multi": 110,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29558_Saureus": {
+                "total_reads": 2348673,
+                "unpaired_total": 2348673,
+                "unpaired_aligned_none": 2348625,
+                "unpaired_aligned_one": 40,
+                "unpaired_aligned_multi": 8,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29271_Saureus": {
+                "total_reads": 3377430,
+                "unpaired_total": 3377430,
+                "unpaired_aligned_none": 3376492,
+                "unpaired_aligned_one": 835,
+                "unpaired_aligned_multi": 103,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29529_Saureus": {
+                "total_reads": 3388875,
+                "unpaired_total": 3388875,
+                "unpaired_aligned_none": 3388875,
+                "unpaired_aligned_one": 0,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29151_Saureus": {
+                "total_reads": 3065242,
+                "unpaired_total": 3065242,
+                "unpaired_aligned_none": 3064343,
+                "unpaired_aligned_one": 805,
+                "unpaired_aligned_multi": 94,
+                "overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29180_Saureus": {
+                "total_reads": 3723534,
+                "unpaired_total": 3723534,
+                "unpaired_aligned_none": 3723529,
+                "unpaired_aligned_one": 5,
+                "unpaired_aligned_multi": 0,
+                "overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29161_Saureus": {
+                "total_reads": 3280442,
+                "unpaired_total": 3280442,
+                "unpaired_aligned_none": 3280259,
+                "unpaired_aligned_one": 169,
+                "unpaired_aligned_multi": 14,
+                "overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | HS5_Saureus": {
+                "total_reads": 2455539,
+                "unpaired_total": 2455539,
+                "unpaired_aligned_none": 2455523,
+                "unpaired_aligned_one": 14,
+                "unpaired_aligned_multi": 2,
+                "overall_alignment_rate": 0.0
+            }
+        },
+        "multiqc_general_stats": {
+            "Saureus_pangenome_outputs | . | CL29118_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29687_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29498_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29298_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29513_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29077_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29159_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29253_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29303_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS3_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29256_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29107_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29150_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.12
+            },
+            "Saureus_pangenome_outputs | . | CL29223_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29258_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29274_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29219_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29085_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29257_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29137_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.16
+            },
+            "Saureus_pangenome_outputs | . | CL29291_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.02
+            },
+            "Saureus_pangenome_outputs | . | CL29246_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29539_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS1_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS2_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29776_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29201_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29254_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29264_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.04
+            },
+            "Saureus_pangenome_outputs | . | CL29170_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29148_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29168_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29519_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29231_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29663_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS4_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29075_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29491_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29276_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.05
+            },
+            "Saureus_pangenome_outputs | . | CL29218_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29680_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29770_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29270_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29289_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.06
+            },
+            "Saureus_pangenome_outputs | . | CL29272_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | CL29213_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29727_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29234_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | HS6_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29297_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29558_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29271_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29529_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29151_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.03
+            },
+            "Saureus_pangenome_outputs | . | CL29180_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            },
+            "Saureus_pangenome_outputs | . | CL29161_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.01
+            },
+            "Saureus_pangenome_outputs | . | HS5_Saureus": {
+                "Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate": 0.0
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs"
+    ],
+    "config_analysis_dir": [
+        "Saureus_pangenome_outputs/."
+    ],
+    "config_creation_date": "2021-05-05, 15:04",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.8/dist-packages/multiqc/utils",
+    "config_short_version": "1.9",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.9"
+}

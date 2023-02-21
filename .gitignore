@@ -1,5 +1,5 @@
 # This is the .gitignore file for the Leish-Microbiome paper.
-# Files ignored were never included in the manuscript or they are sentisitve information about the patients, therefore are muted.
+# Files ignored were never included in the manuscript or they are sensitive information about the patients or failed expt. and analyses, therefore are muted.
 
 # 1) Project folders:
 
@@ -23,9 +23,6 @@
 .Rproj
 /.Rproj
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3 # Camila added this from Hadley's example. I'll just leve them...
 .httr-oauth
@@ -37,9 +34,3 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-
-# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
-rsconnect/
-.Rproj.user
-inst/doc
-

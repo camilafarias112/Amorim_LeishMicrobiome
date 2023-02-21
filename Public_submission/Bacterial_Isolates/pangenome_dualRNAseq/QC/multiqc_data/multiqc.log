@@ -1,0 +1,170 @@
+[2021-05-05 15:04:26,283] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.8/dist-packages/multiqc_config.yaml
+[2021-05-05 15:04:26,283] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/amorimc/.multiqc_config.yaml
+[2021-05-05 15:04:26,283] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2021-05-05 15:04:26,283] multiqc                                            [DEBUG  ]  Command used: /home/amorimc/.local/bin/multiqc -d Saureus_pangenome_outputs/.
+[2021-05-05 15:04:26,864] multiqc                                            [WARNING]  MultiQC Version v1.10.1 now available!
+[2021-05-05 15:04:26,864] multiqc                                            [INFO   ]  This is MultiQC v1.9
+[2021-05-05 15:04:26,864] multiqc                                            [DEBUG  ]  Command     : /home/amorimc/.local/bin/multiqc -d Saureus_pangenome_outputs/.
+[2021-05-05 15:04:26,864] multiqc                                            [DEBUG  ]  Working dir : /publicData/amorimc/3rdDataset/Saureus_pangenome_mapping
+[2021-05-05 15:04:26,864] multiqc                                            [INFO   ]  Template    : default
+[2021-05-05 15:04:26,864] multiqc                                            [DEBUG  ]  Running Python 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+[2021-05-05 15:04:26,864] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2021-05-05 15:04:26,864] multiqc                                            [INFO   ]  Searching   : /publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/Saureus_pangenome_outputs
+[2021-05-05 15:04:26,865] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dedup, damageprofiler, biobambam2, mtnucratio, picard, prokka, samblaster, samtools, sexdeterrmine, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, snpsplit, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, pycoqc, minionqc, multivcfanalyzer, clusterflow, bcl2fastq, interop, ivar, flash, seqyclean
+[2021-05-05 15:04:26,865] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpnn48j48x
+[2021-05-05 15:04:26,968] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS4_Saureus.sam
+[2021-05-05 15:04:26,968] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29297_Saureus.sam
+[2021-05-05 15:04:26,977] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29687_Saureus.sam
+[2021-05-05 15:04:26,993] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29270_Saureus.sam
+[2021-05-05 15:04:26,994] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29231_Saureus.sam
+[2021-05-05 15:04:27,002] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29257_Saureus.sam
+[2021-05-05 15:04:27,002] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29663_Saureus.sam
+[2021-05-05 15:04:27,002] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29776_Saureus.sam
+[2021-05-05 15:04:27,011] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29539_Saureus.sam
+[2021-05-05 15:04:27,019] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29529_Saureus.sam
+[2021-05-05 15:04:27,036] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29680_Saureus.sam
+[2021-05-05 15:04:27,036] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29271_Saureus.sam
+[2021-05-05 15:04:27,036] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29258_Saureus.sam
+[2021-05-05 15:04:27,036] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29223_Saureus.sam
+[2021-05-05 15:04:27,037] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29170_Saureus.sam
+[2021-05-05 15:04:27,037] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS5_Saureus.sam
+[2021-05-05 15:04:27,045] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29077_Saureus.sam
+[2021-05-05 15:04:27,062] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29770_Saureus.sam
+[2021-05-05 15:04:27,079] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS6_Saureus.sam
+[2021-05-05 15:04:27,079] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29075_Saureus.sam
+[2021-05-05 15:04:27,079] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29498_Saureus.sam
+[2021-05-05 15:04:27,104] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29272_Saureus.sam
+[2021-05-05 15:04:27,104] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS2_Saureus.sam
+[2021-05-05 15:04:27,105] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29161_Saureus.sam
+[2021-05-05 15:04:27,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29219_Saureus.sam
+[2021-05-05 15:04:27,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29727_Saureus.sam
+[2021-05-05 15:04:27,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29218_Saureus.sam
+[2021-05-05 15:04:27,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29150_Saureus.sam
+[2021-05-05 15:04:27,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29276_Saureus.sam
+[2021-05-05 15:04:27,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29274_Saureus.sam
+[2021-05-05 15:04:27,155] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29491_Saureus.sam
+[2021-05-05 15:04:27,155] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29289_Saureus.sam
+[2021-05-05 15:04:27,172] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS1_Saureus.sam
+[2021-05-05 15:04:27,180] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29253_Saureus.sam
+[2021-05-05 15:04:27,189] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29246_Saureus.sam
+[2021-05-05 15:04:27,189] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29519_Saureus.sam
+[2021-05-05 15:04:27,197] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29513_Saureus.sam
+[2021-05-05 15:04:27,205] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29085_Saureus.sam
+[2021-05-05 15:04:27,214] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29148_Saureus.sam
+[2021-05-05 15:04:27,239] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29254_Saureus.sam
+[2021-05-05 15:04:27,239] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29201_Saureus.sam
+[2021-05-05 15:04:27,239] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29256_Saureus.sam
+[2021-05-05 15:04:27,239] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29151_Saureus.sam
+[2021-05-05 15:04:27,272] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29118_Saureus.sam
+[2021-05-05 15:04:27,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29558_Saureus.sam
+[2021-05-05 15:04:27,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29291_Saureus.sam
+[2021-05-05 15:04:27,281] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29137_Saureus.sam
+[2021-05-05 15:04:27,281] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: HS3_Saureus.sam
+[2021-05-05 15:04:27,282] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29213_Saureus.sam
+[2021-05-05 15:04:27,282] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29107_Saureus.sam
+[2021-05-05 15:04:27,282] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29180_Saureus.sam
+[2021-05-05 15:04:27,290] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29264_Saureus.sam
+[2021-05-05 15:04:27,349] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29159_Saureus.sam
+[2021-05-05 15:04:27,374] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29168_Saureus.sam
+[2021-05-05 15:04:27,424] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29234_Saureus.sam
+[2021-05-05 15:04:27,440] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29303_Saureus.sam
+[2021-05-05 15:04:27,441] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CL29298_Saureus.sam
+[2021-05-05 15:04:31,895] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.3.3
+[2021-05-05 15:04:31,896] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.3.3
+[2021-05-05 15:04:31,897] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2021-05-05 15:04:31,901] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2021-05-05 15:04:31,905] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2021-05-05 15:04:31,909] multiqc                                            [DEBUG  ]  No samples found: somalier
+[2021-05-05 15:04:31,913] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2021-05-05 15:04:31,918] multiqc                                            [DEBUG  ]  No samples found: mosdepth
+[2021-05-05 15:04:31,922] multiqc                                            [DEBUG  ]  No samples found: phantompeakqualtools
+[2021-05-05 15:04:31,925] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2021-05-05 15:04:31,929] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2021-05-05 15:04:31,933] multiqc                                            [DEBUG  ]  No samples found: quast
+[2021-05-05 15:04:31,936] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2021-05-05 15:04:31,940] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2021-05-05 15:04:31,944] multiqc                                            [DEBUG  ]  No samples found: rockhopper
+[2021-05-05 15:04:31,948] multiqc                                            [DEBUG  ]  No samples found: rsem
+[2021-05-05 15:04:31,954] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2021-05-05 15:04:31,958] multiqc                                            [DEBUG  ]  No samples found: busco
+[2021-05-05 15:04:31,962] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2021-05-05 15:04:31,965] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2021-05-05 15:04:31,969] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2021-05-05 15:04:31,976] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2021-05-05 15:04:31,980] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2021-05-05 15:04:31,984] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2021-05-05 15:04:31,987] multiqc                                            [DEBUG  ]  No samples found: mirtrace
+[2021-05-05 15:04:31,991] multiqc                                            [DEBUG  ]  No samples found: happy
+[2021-05-05 15:04:31,995] multiqc                                            [DEBUG  ]  No samples found: mirtop
+[2021-05-05 15:04:31,999] multiqc                                            [DEBUG  ]  No samples found: homer
+[2021-05-05 15:04:32,003] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2021-05-05 15:04:32,007] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2021-05-05 15:04:32,011] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2021-05-05 15:04:32,016] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2021-05-05 15:04:32,019] multiqc                                            [DEBUG  ]  No samples found: htseq
+[2021-05-05 15:04:32,023] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2021-05-05 15:04:32,027] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2021-05-05 15:04:32,031] multiqc                                            [DEBUG  ]  No samples found: fgbio
+[2021-05-05 15:04:32,039] multiqc                                            [DEBUG  ]  No samples found: dragen
+[2021-05-05 15:04:32,042] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2021-05-05 15:04:32,046] multiqc                                            [DEBUG  ]  No samples found: damageprofiler
+[2021-05-05 15:04:32,058] multiqc                                            [DEBUG  ]  No samples found: biobambam2
+[2021-05-05 15:04:32,061] multiqc                                            [DEBUG  ]  No samples found: mtnucratio
+[2021-05-05 15:04:32,065] multiqc                                            [DEBUG  ]  No samples found: picard
+[2021-05-05 15:04:32,069] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2021-05-05 15:04:32,072] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2021-05-05 15:04:32,077] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2021-05-05 15:04:32,081] multiqc                                            [DEBUG  ]  No samples found: sexdeterrmine
+[2021-05-05 15:04:32,085] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2021-05-05 15:04:32,088] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2021-05-05 15:04:32,093] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2021-05-05 15:04:32,097] multiqc                                            [DEBUG  ]  No samples found: longranger
+[2021-05-05 15:04:32,101] multiqc                                            [DEBUG  ]  No samples found: stacks
+[2021-05-05 15:04:32,105] multiqc                                            [DEBUG  ]  No samples found: varscan2
+[2021-05-05 15:04:32,112] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2021-05-05 15:04:32,116] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2021-05-05 15:04:32,120] multiqc                                            [DEBUG  ]  No samples found: biscuit
+[2021-05-05 15:04:32,124] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2021-05-05 15:04:32,128] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2021-05-05 15:04:32,132] multiqc                                            [DEBUG  ]  No samples found: hicpro
+[2021-05-05 15:04:32,135] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2021-05-05 15:04:32,139] multiqc                                            [DEBUG  ]  No samples found: kallisto
+[2021-05-05 15:04:32,142] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2021-05-05 15:04:32,146] multiqc                                            [DEBUG  ]  No samples found: star
+[2021-05-05 15:04:32,150] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2021-05-05 15:04:32,154] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2021-05-05 15:04:32,171] multiqc.modules.bowtie2.bowtie2                    [INFO   ]  Found 57 reports
+[2021-05-05 15:04:32,184] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2021-05-05 15:04:32,188] multiqc                                            [DEBUG  ]  No samples found: snpsplit
+[2021-05-05 15:04:32,191] multiqc                                            [DEBUG  ]  No samples found: kat
+[2021-05-05 15:04:32,195] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2021-05-05 15:04:32,199] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2021-05-05 15:04:32,202] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2021-05-05 15:04:32,206] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2021-05-05 15:04:32,209] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2021-05-05 15:04:32,213] multiqc                                            [DEBUG  ]  No samples found: kaiju
+[2021-05-05 15:04:32,217] multiqc                                            [DEBUG  ]  No samples found: kraken
+[2021-05-05 15:04:32,220] multiqc                                            [DEBUG  ]  No samples found: malt
+[2021-05-05 15:04:32,224] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2021-05-05 15:04:32,227] multiqc                                            [DEBUG  ]  No samples found: sickle
+[2021-05-05 15:04:32,231] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2021-05-05 15:04:32,235] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2021-05-05 15:04:32,238] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2021-05-05 15:04:32,242] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2021-05-05 15:04:32,246] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2021-05-05 15:04:32,249] multiqc                                            [DEBUG  ]  No samples found: fastp
+[2021-05-05 15:04:32,254] multiqc                                            [DEBUG  ]  No samples found: fastqc
+[2021-05-05 15:04:32,257] multiqc                                            [DEBUG  ]  No samples found: pycoqc
+[2021-05-05 15:04:32,261] multiqc                                            [DEBUG  ]  No samples found: minionqc
+[2021-05-05 15:04:32,265] multiqc                                            [DEBUG  ]  No samples found: multivcfanalyzer
+[2021-05-05 15:04:32,268] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2021-05-05 15:04:32,273] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2021-05-05 15:04:32,277] multiqc                                            [DEBUG  ]  No samples found: interop
+[2021-05-05 15:04:32,280] multiqc                                            [DEBUG  ]  No samples found: ivar
+[2021-05-05 15:04:32,284] multiqc                                            [DEBUG  ]  No samples found: flash
+[2021-05-05 15:04:32,288] multiqc                                            [DEBUG  ]  No samples found: seqyclean
+[2021-05-05 15:04:32,308] multiqc                                            [INFO   ]  Compressing plot data
+[2021-05-05 15:04:32,321] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2021-05-05 15:04:32,321] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2021-05-05 15:04:32,321] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpnn48j48x/multiqc_data' to '/publicData/amorimc/3rdDataset/Saureus_pangenome_mapping/multiqc_data'
+[2021-05-05 15:04:32,461] multiqc                                            [INFO   ]  MultiQC complete
