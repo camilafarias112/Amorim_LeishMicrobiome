@@ -9,7 +9,7 @@
 ## Abstract
 <i>Leishmania braziliensis</i> infection results in inflammation and skin injury, with highly variable and unpredictable clinical outcomes. Here, we investigated the potential impact of microbiota on infection-induced inflammatory responses and disease resolution by conducting an integrated analysis of the skin microbiome and host transcriptome on a cohort of 62 <i>L. braziliensis</i>-infected patients. We found that overall bacterial burden and microbiome configurations dominated with <i>Staphylococcus spp.</i> were associated with delayed healing and enhanced inflammatory responses, especially by IL-1 family members. Dual RNA-seq of human lesions revealed that high lesional <i>S. aureus</i> transcript abundance was associated with delayed healing and increased expression of IL-1β.  This cytokine was critical for modulating disease outcome in <i>L. braziliensis</i>-infected mice colonized with <i>S. aureus</i>, as its neutralization reduced pathology and inflammation. These results implicate the microbiome in cutaneous leishmaniasis disease outcomes in humans and suggest host-directed therapies to mitigate the inflammatory consequences. 
 
-<img align="center" width="1000" height="470" src="/Public_submission/MultipliedFactor.png">
+<img align="center" width="1000" height="450" src="/Public_submission/MultipliedFactor.png">
 
 > The locations of the core components of this repo are outlined in the file system map below. In short, there are the following main directories:
 
