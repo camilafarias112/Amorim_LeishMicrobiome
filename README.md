@@ -4,6 +4,8 @@
 <p align="center"><strong>Multi-omic profiling of cutaneous leishmaniasis infections reveals microbiota-driven mechanisms underlying disease severity</strong></p>
 <p align="center"><em>Camila Farias Amorim, Victoria M. Lovins, Tej Pratap Singh, Fernanda O. Novais, Jordan C. Harris, Alexsandro S. Lago, Lucas P. Carvalho, Edgar M. Carvalho, Daniel P. Beiting, Phillip Scott*, Elizabeth A. Grice*</em></p>
 
+Code for my publication "Multi-omic profiling of cutaneous leishmaniasis infections reveals microbiota-driven mechanisms underlying disease severity", 2023
+
 <p>[medRxiv](https://www.medrxiv.org/content/10.1101/2023.02.02.23285247v2)</p>
 
 ## Abstract
