@@ -6,7 +6,7 @@
 
 Code for my publication "Multi-omic profiling of cutaneous leishmaniasis infections reveals microbiota-driven mechanisms underlying disease severity", 2023
 
-<p>[medRxiv](https://www.medrxiv.org/content/10.1101/2023.02.02.23285247v2)</p>
+<p>[Science Translational Medicine, DOI: 10.1126/scitranslmed.adh1469](https://www.science.org/doi/full/10.1126/scitranslmed.adh1469)</p>
 
 ## Abstract
 <i>Leishmania braziliensis</i> infection results in inflammation and skin injury, with highly variable and unpredictable clinical outcomes. Here, we investigated the potential impact of microbiota on infection-induced inflammatory responses and disease resolution by conducting an integrated analysis of the skin microbiome and host transcriptome on a cohort of 62 <i>L. braziliensis</i>-infected patients. We found that overall bacterial burden and microbiome configurations dominated with <i>Staphylococcus spp.</i> were associated with delayed healing and enhanced inflammatory responses, especially by IL-1 family members. Dual RNA-seq of human lesions revealed that high lesional <i>S. aureus</i> transcript abundance was associated with delayed healing and increased expression of IL-1β.  This cytokine was critical for modulating disease outcome in <i>L. braziliensis</i>-infected mice colonized with <i>S. aureus</i>, as its neutralization reduced pathology and inflammation. These results implicate the microbiome in cutaneous leishmaniasis disease outcomes in humans and suggest host-directed therapies to mitigate the inflammatory consequences. 
